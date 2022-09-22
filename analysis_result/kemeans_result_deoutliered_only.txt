@@ -1,0 +1,3 @@
+nfts barb kpop star joer dsmp
+Absolute:  [0 1 1 0 0 1]
+Normalized:  [0 0 1 0 0 1]
